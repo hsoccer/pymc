@@ -1,2 +1,2 @@
 # pymc
-pymc_practice
+This is some examples of regression using pymc3.
